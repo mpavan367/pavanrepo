@@ -1,2 +1,0 @@
-# pavanrepo
-my first repo
